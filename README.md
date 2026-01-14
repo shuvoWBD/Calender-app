@@ -7,6 +7,7 @@ This is a calendar application built using C that displays the full year for any
 
 
 ✨**Key Features:**
+
  ✔ Displays the full calendar for any year entered by the user.
 
 ✔  Automatically calculates the first day of the year.
