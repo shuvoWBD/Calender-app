@@ -22,7 +22,7 @@ This is a calendar application built using C that displays the full year for any
 
 
 
-**Tecnical Architecture:**
+🛠️**Tecnical Architecture:**
 
 
 ✔ * **Programming Language:** C
