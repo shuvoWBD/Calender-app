@@ -3,9 +3,11 @@
 A basic calendar app developed using C programming
 
 
+
 🚀**Project Overview:**
 
 This is a calendar application built using C that displays the full year for any given input year. It calculates the first day of the year and accounts for leap years to adjust February’s days. The program prints each month with correctly aligned weekdays, showing dates under Sunday to Saturday columns. This project demonstrates date calculations, control structures, and formatted output in C programming.
+
 
 
 ✨**Key Features:**
@@ -19,6 +21,7 @@ This is a calendar application built using C that displays the full year for any
 ✔  Shows each month with dates correctly aligned under the weekdays (Sunday to Saturday).
 
 ✔  Simple console-based interface with clear formatting for easy reading.
+
 
 
 
